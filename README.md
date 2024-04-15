@@ -41,7 +41,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-# React Assesment-5
-- 1. Add a Context to your RESUME BUILDER to change Dark Mode and Light Mode. You can also use a React Switch kind of library to make it more user friendly to switch.
+# React Assesment-6
+- Create Post app can be used to maintain a list of your post. A Simple list must have these features
+- App should have menus like home, about us, post, contact us.
+- Under post menu you can add any new post to list by calling post API
+- You can use React Query, Axios, Fetch Api for the same.
+- You can delete any item (completed or pending).
+- You can display list of available post.
+- You can create your own post.
+- You can search post (optional)
+- demo -todo-project.gif (640×304) (raw.githubusercontent.com) (https://raw.githubusercontent.com/abhishekrathore/fullstackbootcamp2019/master/01_REACT/2_PROJECT_1/images/todo-project.gif)
 
 - [done] https://github.com/gitsumitsingh/ReactAssignment6TodoApp
